@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_development/fontpp/EmployeeExampleDesign-fonts/app/src/main/res/font-v26/custom_font.xml" value="0.22916666666666666" />
+        <entry key="..\:/Android_development/fontpp/EmployeeExampleDesign-fonts/app/src/main/res/font/custom_font.xml" value="0.23020833333333332" />
+        <entry key="..\:/Android_development/fontpp/EmployeeExampleDesign-fonts/app/src/main/res/layout-land/list_item.xml" value="0.1693121693121693" />
+        <entry key="..\:/Android_development/fontpp/EmployeeExampleDesign-fonts/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Android_development/fontpp/EmployeeExampleDesign-fonts/app/src/main/res/layout/fragment_employee_list.xml" value="0.2" />
+        <entry key="..\:/Android_development/fontpp/EmployeeExampleDesign-fonts/app/src/main/res/layout/list_item.xml" value="0.2" />
+        <entry key="..\:/Android_development/fontpp/EmployeeExampleDesign-fonts/app/src/main/res/layout/list_toolbar.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK" />
+</project>
